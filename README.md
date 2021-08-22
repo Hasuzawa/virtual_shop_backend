@@ -1,3 +1,7 @@
 # virtual_shop_backend
-the backend of a virtual shop project
+This is the backend of a virtual shop project.
+
+[the frontend of this project]()
+
+## techs used
 
