@@ -1,5 +1,13 @@
 # virtual_shop_backend
-This is the backend of a virtual shop project.
+This is the backend of a virtual shop project. 
+
+I have created an account with read-only permission that can be used to view the admin page.
+| username | password |
+|----------|----------|
+|test_client|(not set yet)|
+
+you can access the admin page by [this link]().
+I made only minimal changes to the admin page, that is not the focus of this project.
 
 [the website of this project]()
 [the frontend of this project]()

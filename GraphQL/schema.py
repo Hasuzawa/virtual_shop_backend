@@ -22,7 +22,7 @@ class Query(graphene.ObjectType):
         return Product.objects.all()
 
     
-    def resolve_product_by_id(root, info):
+    def resolve_product_by_id(root, info, id):
         return Product.objects.get(pk=id)
 
 
