@@ -1,5 +1,5 @@
 # virtual_shop_backend
-This is the backend of a virtual shop project. 
+This is the backend of a virtual shop project. There is <b>no</b> actual transaction involving real money.
 
 I have created an account with read-only permission that can be used to view the admin page.
 | username | password |
@@ -9,8 +9,8 @@ I have created an account with read-only permission that can be used to view the
 you can access the admin page by [this link]().
 I made only minimal changes to the admin page, that is not the focus of this project.
 
-[the website of this project]()
-[the frontend of this project]()
+[the deployed version]()
+[the frontend of this project](https://github.com/Hasuzawa/virtual_shop_frontend)
 
 ## techs used
 <details open>
@@ -23,7 +23,10 @@ I made only minimal changes to the admin page, that is not the focus of this pro
 
 </details>
 
-## technical background
+## technical commentaries
+<details close>
 
 -  for database with more complex relationships, I will probably use UML in designing the DB.
+-  I am aware that publishing the backend with login credentials is a severe security risk. I certainly will not do this in actual proudction enironment.
 
+</details>
